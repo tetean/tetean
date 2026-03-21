@@ -1,3 +1,1 @@
-
----
-My name is Sean, which sounds quite similar to my Chinese first name. I also go by the nickname tetean or simply tete, which I often use in games or on social media. My research interests lie in reinforcement learning and AI4Science. I’m always happy to connect and exchange ideas with others.
+I am a Master's student at SYSU, focusing on AI for Science, including computational materials science, graph-based modeling, and uncertainty-aware learning.
