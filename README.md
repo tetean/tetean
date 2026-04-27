@@ -1,27 +1,27 @@
 <div align="center">
 
 <pre>
-╭────────────────────────────────────────────────────────────────╮
-│                                                                │
-│                      Xiean Wang  ( Sean )                      │
-│                 MPhil Student · Sun Yat-sen U.                 │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│                                                                        │
+│                         Xiean Wang  ( Sean )                           │
+│                    MPhil Student · Sun Yat-sen U.                      │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────── ─────╯
 </pre>
 
 <pre>
-┌─[ research_interests ]───────────────────────────────────────────────┐
-│                                                                      │
-│   AI for Science, with a focus on computational materials science    │
-│   Graph-based modeling for molecular and crystal systems             │
-│   Uncertainty-aware learning and dataset efficiency                  │
-│   Reinforcement learning for scientific discovery                    │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+╭─[ research_interests ]─────────────────────────────────────────────────╮
+│                                                                        │
+│   AI for Science, with a focus on computational materials science      │
+│   Generative or graph-based modeling for molecular and crystal systems │
+│   Uncertainty-aware learning and dataset efficiency                    │
+│   Reinforcement learning for scientific discovery                      │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
 </pre>
 
 <pre>
-┌─[ links ]──────────────────────────────────────────────────────┐
+┌─[ links ]──────────────────────────────────────────────────────────────┐
 </pre>
 
 <br/>
@@ -42,11 +42,11 @@
 <br/>
 
 <pre>
-└────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <pre>
-┌─[ stats ]──────────────────────────────────────────────────────┐
+┌─[ stats ]──────────────────────────────────────────────────────────────┐
 </pre>
 
 <br/>
@@ -87,7 +87,7 @@
 <br/>
 
 <pre>
-└────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <samp><sub>:: currently expanding into new research directions · open to collaboration and academic exchange</sub></samp>
