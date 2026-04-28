@@ -12,10 +12,10 @@
 <pre>
 ╭─[ research_interests ]─────────────────────────────────────────────────╮
 │                                                                        │
-│   AI for Science, with a focus on computational materials science      │
-│   Generative or graph-based modeling for molecular and crystal systems │
-│   Uncertainty-aware learning and dataset efficiency                    │
-│   Reinforcement learning for scientific discovery                      │
+│                           AI for Science                               │
+│  Generative or graph-based modeling for molecular and crystal systems  │
+│            Uncertainty-aware learning and dataset efficiency           │
+│             Reinforcement learning for scientific discovery            │
 │                                                                        │
 ╰────────────────────────────────────────────────────────────────────────╯
 </pre>
