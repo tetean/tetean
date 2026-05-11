@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/GitHub-tetean-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://academic.tetean.com">
+<!-- <a href="https://academic.tetean.com">
   <img src="https://img.shields.io/badge/Homepage-Academic-4a90d9?style=for-the-badge" />
-</a>
+</a> -->
 
 <br/>
 <br/>
