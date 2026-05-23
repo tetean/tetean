@@ -53,20 +53,6 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tetean&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github"
-        height="170"
-        draggable="false"
-        style="pointer-events: none; user-select: none; -webkit-user-select: none;" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetean&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        height="170"
-        draggable="false"
-        style="pointer-events: none; user-select: none; -webkit-user-select: none;" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com?user=tetean&theme=tokyonight&hide_border=true&date_format=Y.m.d"
         width="100%"
