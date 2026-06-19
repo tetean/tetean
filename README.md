@@ -21,7 +21,7 @@
 </pre>
 
 <pre>
-  [ links ]
+[ links ]
 </pre>
 
 <br/>
@@ -46,7 +46,7 @@
 </pre>
 
 <pre>
-  [ stats ]
+[ stats ]
 </pre>
 
 <br/>
